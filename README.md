@@ -52,16 +52,6 @@ Student-Portfolio-Gallery/
 
 *Note: The individual HTML files should exist in your project folder for the portfolio links to work.*
 
-## 🚀 How to Run the Project
-
-1. Download or clone this repository from GitHub.
-2. Open the project folder in Visual Studio Code.
-3. Make sure `index.html` and `style.css` are in the correct locations.
-4. Open `index.html` in your web browser.
-5. Explore the student cards and click **View Portfolio** to visit individual portfolio pages.
-
-You can also use the Live Server extension in Visual Studio Code to preview the website.
-
 ## 🎯 Purpose of the Project
 
 The main purpose of this project is to learn the fundamentals of web development and create a platform to showcase student skills and achievements.
